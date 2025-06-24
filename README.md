@@ -136,9 +136,3 @@ We welcome contributions! Please fork the repo, create a branch, and submit a pu
 AuthSpoke builds secure, extensible identity infrastructure for modern enterprises and AI-native systems.
 
 ---
-
-## 📜 License
-
-MIT License
-
-```
